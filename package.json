@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "Checks whether a url is alive.",
+  "description": "Simply checks whether a url is live.",
   "author": {
     "name": "Theo M Jones",
     "email": "theomjones@gmail.com",

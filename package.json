@@ -1,0 +1,20 @@
+{
+  "name": "live-url",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Checks whether a url is alive.",
+  "author": {
+    "name": "Theo M Jones",
+    "email": "theomjones@gmail.com",
+    "url": "https://theomjones.com"
+  },
+  "repository": {
+    "url": "https://github.com/theomjones/live-url",
+    "type": "git"
+  },
+  "homepage": "https://github.com/theomjones/live-url",
+  "keywords": [
+    "url", "live", "check", "check url", "url exists"
+  ]
+}
